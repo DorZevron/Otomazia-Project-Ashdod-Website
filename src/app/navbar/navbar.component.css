@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css?family=Assistant");
+nav{
+ position: relative;
+ font-family: "Assistant", sans-serif;
+ font-size: 110%;
+
+}
+
+nav .logo img{
+  widows: 400px;
+  height: 100px ;
+
+}
+#imgMessage{
+  widows: 100px;
+  height: 50px;
+}
+
+nav ul li a{
+  color: #21aec7;
+  padding: 5px 50px;
+}
+nav ul li a:hover{
+  color: #00d9ff;
+
+}
+input[type=text] {
+  width: 150px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  background-image: url('../../assets/image/חיפוש.png');
+  background-size: 30px;
+  background-position: 1px 1px;
+  background-repeat: no-repeat;
+  padding: 2px 2px 5px 4px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+}
+
+input[type=text]:focus {
+  width: 200px;
+}
+#spanAngel{
+  display:block;
+  position: relative;
+  left:45%
+
+}
+/*החלף ישוב */
+/* #lastCol{
+  display:block;
+
+} */
+
+nav ul {
+  margin-right: 0px !important;
+}
+
+nav ul li{
+  border-right:1px solid black;
+}
+
+
+

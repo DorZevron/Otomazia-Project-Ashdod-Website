@@ -1,0 +1,40 @@
+#footer{
+  border-top: 5px solid #660c0c;
+  }
+
+  @media only screen and (max-width: 570px) {
+    .HideOnPhones{
+      display: none;
+    }
+  }
+  .container{
+    margin-top: 2%;
+  }
+img{
+  width: 100%;
+}
+#facebookLogo i{
+  font-size: 3em;
+  color: rgb(0, 132, 255);
+  text-align: center;
+}
+.divtextfooter{
+  text-align: right;
+}
+
+ul {
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
+
+#ulCol i{
+  font-size: 1em;
+  margin-left:5%;
+  color: rgb(0, 132, 255);
+}
+#dorlogo{
+  width: 80%;
+  height: 50%;
+}

@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css?family=Assistant");
+
+
+@media only screen and (max-width: 570px) {
+  #onTop{
+    width: 80% !important;
+  }
+}
+
+img#imgAshdod {
+  width:100%;
+  height: 600px;
+}
+
+img#imgWheelchier{
+  background-color: rgb(221, 50, 44);
+  width: 4%;
+  border-radius: 50%;
+}
+#container {
+  /* position: relative; */
+}
+
+#imgWheelchier {
+  position: relative;
+  /* left: 50px; */
+  top: 20px;
+  left:20px;
+}
+#onTop{
+  /* background-color:blue;
+  opacity: 0.2; */
+ /* background: rgba(54, 81, 200, 0.8);*/
+ background: #21aec7de;
+  color:white;
+  /* font-weight: bold; */
+  font-family: "Assistant", sans-serif;
+  width:27%;
+  padding-bottom: 1%;
+  text-align: right;
+  position: relative;
+  top:-370px;
+  left:-10%;
+  font-size: 1.4em;
+}
+#onTop p{
+  margin-right:3%;
+}
+.smallFont{
+  font-size: 0.8em;
+}
+
+#onTop a{
+  background-color: rgb(255, 196, 0);
+  margin-right:0%;
+  margin-bottom: 1px;
+  text-decoration: none;
+  padding: 2px 7px;
+}
+#textlink{
+  color: black;
+}
+
+
